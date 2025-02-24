@@ -124,7 +124,7 @@ async function main() {
     try {
         await client.connect();
 
-        const queryText = "How does CRED fetch information about a member's vehicles?";
+        const queryText = "Enter your query here...";
         console.log("Query:", queryText);
         console.log("\nPerformance Metrics:");
         console.log("-------------------");
