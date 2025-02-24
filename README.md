@@ -44,7 +44,7 @@ This project implements a high-performance vector search system for FAQ retrieva
 1. **Environment Setup**
    ```bash
    # Clone the repository
-   git clone <repository-url>
+   git clone https://github.com/shivsinghin/Realtime-RAG.git
    
    # Install dependencies
    npm install
