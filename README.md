@@ -124,4 +124,4 @@ MIT License
 
 * Website: [shivsingh.com](https://shivsingh.com)
 * Email: hi@shivsingh.com
-* LinkedIn: [QuansysAI](https://linkedin.com/in/shivsinghin)
+* LinkedIn: [Shiv Singh](https://linkedin.com/in/shivsinghin)
